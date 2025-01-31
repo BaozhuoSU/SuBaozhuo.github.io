@@ -22,13 +22,13 @@ repository               : "BaozhuoSU/SuBaozhuo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "SU"
+  name             : "SU Baozhuo"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "France"
   employer         : ""
   uri              : # URL
-  email            : "baozhuo.su@telecom-sudparis;eu" 
+  email            : "baozhuo.su@telecom-sudparis.eu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
