@@ -20,8 +20,14 @@ Education
 
 Professional Experience
 ======
-- 2024.9-Present:Research Assistant at MBZUAI, UAE.**Subject: Large deformation dynamics modeling of Euler beams.** Tutor: Associate Prof.Wu Ke
-- 2024.6-2024.9:Research Assistant at Beijing Langlands Technologies CO,China. **Subject:Optimization of PTBXL dataset based on data fusion algorithm.**  Tutor:Dr.Tan Ting
-- 2023.5-2023.12:Research Assistant at Aerie Intelligent Technology Corp, USA. **Subject:Optimal Arrhythmia classification Method.** Tutor:Prof.Tan Zhiqun, UC Irvine.
+- 2024.9-Present:Research Assistant at MBZUAI, UAE.
+  **Subject: Large deformation dynamics modeling of Euler beams.**
+  Tutor: Associate Prof.Wu Ke
+- 2024.6-2024.9:Research Assistant at Beijing Langlands Technologies CO,China.
+  **Subject:Optimization of PTBXL dataset based on data fusion algorithm.**
+  Tutor:Dr.Tan Ting
+- 2023.5-2023.12:Research Assistant at Aerie Intelligent Technology Corp, USA.
+  **Subject:Optimal Arrhythmia classification Method.**
+  Tutor:Prof.Tan Zhiqun, UC Irvine.
 
 Any detailed information please find in my [CV](../assets/CV.pdf).
