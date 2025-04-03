@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a graduate student at **Institut polytechnique de Paris** in France since 2024.9. I graduated from **Université Paris-Saclay** at 2024.6 and received my Bachlor's degree. I have been doing research since my third year(2023.6) of undergrad. My research focuses on the following topics:
 1. Information Processing.
-2. Non-linear dynamics.
+2. Robitc Dynamics.
 3.Optimization Theory.
 
 Education
@@ -21,7 +21,7 @@ Education
 Professional Experience
 ======
 - 2024.9-Present:Research Assistant at MBZUAI, UAE.
-  **Subject: Large deformation dynamics modeling of Euler beams.**
+  **Subject: Modeling of large deformation dynamics of Euler beams.**
   Tutor: [Associate Prof.Wu Ke](https://sobothub.github.io/)
 - 2024.6-2024.9:Research Assistant at Beijing Langlands Technologies CO,China.
   **Subject:Optimization of PTBXL dataset based on data fusion algorithm.**
