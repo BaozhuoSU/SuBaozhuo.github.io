@@ -15,8 +15,8 @@ I'm a graduate student at **Institut polytechnique de Paris** in France since 20
 Education
 ======
 - 2024.9-2026.06: Master's degree, **_Information Processing and Data Science_**, Institut polytechnique de Paris.
-- 2023.9-2024.6: Bachlor's degree, **_Electric, Automatic,Information Processing_**, , Université Évry Paris-Saclay (Rank:3/31).
-- 2021.9-2023.6: Math-Physics Preparatory course, Institut supérieur d'électronique de Paris( Rank:5/121).
+- 2023.9-2024.6: Bachlor's degree, **_Electric, Automatic,Information Processing_**, Université Évry Paris-Saclay (Rank:3/31).
+- 2021.9-2023.6: **_Math-Physics Preparatory course_**, Institut supérieur d'électronique de Paris( Rank:5/121).
 
 Important Professional Experience
 ======
