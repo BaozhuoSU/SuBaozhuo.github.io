@@ -21,6 +21,7 @@ Education
 Important Professional Experience
 ======
 - 2025.06-2025.09: Research Intern at **LINKCONN Electronics**, Shenzhen
+  
   **Topic**: Stochastic Model-Based Residual Error Analysis and Prediction.
   
 - 2023.5-2023.09:Research Intern at **Aerie Intelligent Technology Corp, Paris**
