@@ -7,27 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I'm a graduate student at **Institut polytechnique de Paris** in France since 2024.9. I graduated from **Université Paris-Saclay** at 2024.6 and received my Bachlor's degree. I have been doing research since my third year(2023.6) of undergrad. My research focuses on the following topics:
-1. Information Processing.
-2. Robitc Dynamics.
-3.Optimization Theory.
+I'm a graduate student at **Institut polytechnique de Paris** in France since 2024.09. I graduated from **Université Évry Paris-Saclay** at 2024.06 and received my Bachlor's degree. I started doing research at last year of bachelor.My research focuses on the following topics:
+1. Optimization
+2. Stocastic Process
+3. Machine Learning
 
 Education
 ======
-- 2024.9-Present: Master of Applied Math at Institut polytechnique de Paris.
-- 2023.9-2024.6: Bachlor's degree of EE in Information Processing at Université Paris-Saclay(Rank:3/31).
-- 2021.9-2023.6: Math-Physics Preparatory course at Institut supérieur d'électronique de Paris(Rank:5/121).
+- 2024.9-2026.06: Master's degree, **_Information Processing and Data Science_**, Institut polytechnique de Paris.
+- 2023.9-2024.6: Bachlor's degree, **_Electric, Automatic,Information Processing_**, , Université Évry Paris-Saclay (Rank:3/31).
+- 2021.9-2023.6: Math-Physics Preparatory course, Institut supérieur d'électronique de Paris( Rank:5/121).
 
-Professional Experience
+Important Professional Experience
 ======
-- 2024.9-Present:Research Assistant at MBZUAI, UAE.
-  **Subject: Modeling of large deformation dynamics of Euler beams.**
-  Tutor: [Associate Prof.Wu Ke](https://sobothub.github.io/)
-- 2024.6-2024.9:Research Assistant at Beijing Langlands Technologies CO,China.
-  **Subject:Optimization of PTBXL dataset based on data fusion algorithm.**
-  Tutor:[Dr.Tan Ting](https://www.researchgate.net/profile/Ting-Tan-17)
-- 2023.5-2023.12:Research Assistant at Aerie Intelligent Technology Corp, USA.
-  **Subject:Optimal Arrhythmia classification Method.**
-  Tutor:[Prof.Tan Zhiqun](https://faculty.uci.edu/profile/?facultyId=5573), UC Irvine.
-
+- 2025.06-2025.09: Research Intern at **LINKCONN Electronics**, Shenzhen
+  **Topic**: Stochastic Model-Based Residual Error Analysis and Prediction.
+  
+- 2023.5-2023.09:Research Intern at **Aerie Intelligent Technology Corp, Paris**
+  **Topic**: Optimal Arrhythmia classification Method.
+  
 Any detailed information please find in my [CV](../assets/CV.pdf).
