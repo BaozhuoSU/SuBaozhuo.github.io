@@ -6,25 +6,32 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I'm currently a graduate student of first year at **Télécom-Paris,Institut Polytechnique de Paris**, studying Information Processing and Data Exploitation, mainly focus on Statistics and AI. 
 
-I'm a graduate student at **Institut polytechnique de Paris** in France since 2024.09. I graduated from **Université Évry Paris-Saclay** at 2024.06 and received my Bachlor's degree. I started doing research at last year of bachelor.My research focuses on the following topics:
+I have received my bachlor's degree, of Engineering Science from **Université Évry Paris-Saclay**, studying Electric, Automatic,Information Processing. And before that, I have enrolled in Classes préparatoires aux grandes écoles (CPGE) program at **Institut supérieur d'électronique de Paris**, studying Math-Physics. 
+
+Now my research interests mainly focus on:
 1. Optimization
-2. Stocastic Process
-3. Machine Learning
+2. Uncertainty Estimation
+3. Robot Dynamics
+4. Machine Learning
 
 Education
 ======
-- 2024.9-2026.06: Master's degree, **_Information Processing and Data Science_**, Institut polytechnique de Paris.
-- 2023.9-2024.6: Bachlor's degree, **_Electric, Automatic,Information Processing_**, Université Évry Paris-Saclay (Rank:3/31).
-- 2021.9-2023.6: **_Math-Physics Preparatory course_**, Institut supérieur d'électronique de Paris( Rank:5/121).
+- 2024.9-2026.06: Master's degree, **Information Processing and Data Exploitation**, Télécom-Paris, Institut polytechnique de Paris, grades:14.30, GPA:3.8, no rank for first year.
+  
+- 2023.9-2024.6: Bachlor's degree, **Electric, Automatic,Information Processing**, Université Évry Paris-Saclay, grades:12.94, rank:3rd/31.
+  
+- 2021.9-2023.6: **Classes préparatoires aux grandes écoles (CPGE)**, Institut supérieur d'électronique de Paris, grades:14.26, rank: 5th/124.
 
-Important Professional Experience
+Research Experience
 ======
 - 2025.06-2025.09: Research Intern at **LINKCONN Electronics**, Shenzhen
-  
-  **Topic**: Stochastic Model-Based Residual Error Analysis and Prediction.
+  **Topic**: Application of probabilistic regression in prodcution residual analysis.
+
+- 2024.09-2025.01: Self-motivated Research Project 
+  **Topic**: Global Dynamic Modeling of Deformable Beams
   
 - 2023.5-2023.09:Research Intern at **Aerie Intelligent Technology Corp, Paris**
   **Topic**: Optimal Arrhythmia classification Method.
   
-Any detailed information please find in my [CV](../assets/CV.pdf).
