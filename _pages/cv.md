@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Master's degree, Inforamtion Processing and Data Exploitation, Institut Polytechnique de Paris, 2026(expected)
+* Bachelor's degree, Automatic and Information Processing, 2024
+* CPGE, Math-Physics, Institut Supérieur d'électronique de Paris, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025.06-2025.09: Research Intern
+  * Linkconn Electronics Co., Ltd, China
+  * Duties: Production Residual error modeling, Parameter estimation, Mixture Density Networks optimziatin
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023.12-Present: Online Lecturer
+  * Lumist Education
+  * Teaching Courses: Mathmatical Analysis, Signal and System, Data Analysis.
+  
+
+* 2023.05-2023.09: Research Intern
+  * Aerie Intelligent Cooperation, Paris
+  * Duties included: Optimization on Latent Space via Kernel Estimation and  Kullback Divergence
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Proficient Programming : Python(Pytorch, Tensor Flow), MATLAB, Latex
+* Languages
+  * Chinese(mother tone)
+  * French(TCF B2 since 2021)
+  * English(academic writting)
+* Electric Guitar Performance (since 2015)
